@@ -5,7 +5,7 @@
     public $isConn;
     protected $datab;
     // connect to db
-    public function __construct($username = 'sql11205441', $password = '5MtKfXgtyF', $host = 'sql11.freemysqlhosting.net', $dbname = 'sql11205441', $options = [])
+    public function __construct($username = 'romaniin', $password = 'ghK5fD7a', $host = 'localhost', $dbname = 'romaniin_db', $options = [])
     {
       try
       {

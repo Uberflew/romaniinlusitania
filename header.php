@@ -1,5 +1,5 @@
 <?php
-  //include_once("includes/database_connection.php");
+  include_once("includes/database_connection.php");
   include_once("includes/functions.php");
  ?>
 <!DOCTYPE html>
@@ -37,21 +37,3 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   </head>
   <body>
-    <!-- Sidebar -->
-    <div class="w3-sidebar w3-light-grey w3-bar-block" style="width:15%;right:0;">
-
-    </div>
-    <!-- Page Content -->
-    <div style="margin-right:15%">
-      <!-- Top Navigation Bar -->
-      <div class="topnav" id="myTopnav">
-        <ul>
-          <li><a href="#home">Home</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-      </div>
-      <!-- Page Content -->
-      <p>Eduard Oancea e smecher</p>
-    </div>
-  </body>
-</html>
