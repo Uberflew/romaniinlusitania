@@ -43,12 +43,15 @@
     </div>
     <!-- Page Content -->
     <div style="margin-right:15%">
+      <!-- Top Navigation Bar -->
       <div class="topnav" id="myTopnav">
         <ul>
           <li><a href="#home">Home</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </div>
+      <!-- Page Content -->
+      <p>Eduard Oancea e smecher</p>
     </div>
   </body>
 </html>
